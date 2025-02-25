@@ -1,6 +1,6 @@
 # wellington-schools
 
-A map of Wellington Schools which highlights what they're doing in partnership
+A map of Wellington Schools which highlights what They're doing in partnership
 with whanau and community.
 
 My long-term goal is thriving resilient community where all our kids needs are
@@ -17,11 +17,6 @@ _This repo currently leans "Eastern suburbs" (near where I live), primary age (m
 kids). Open to contributions and expanding_
 
 ## Schools
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d19027.513358530545!2d174.79159671171644!3d-41.31657691141558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sprimary%20school!5e0!3m2!1sen!2snz!4v1740443478641!5m2!1sen!2snz"
-    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade">
-</iframe>
 
 NOTE: consider the notes hearin more like a WIP wiki - i.e. very likely
 incomplete, subjective, and slightly out of date. Updates most welcome.
