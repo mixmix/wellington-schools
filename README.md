@@ -32,6 +32,7 @@ Lyall Bay       | [Lyall Bay School](./lyall_bay_school.md)              |
 Hataitai        | [Hataitai School](./hataitai_school.md)                |
 Hataitai        | [Kilbernie School](./kilbernie_school.md)              |
 Houghton Valley | [Houghton Valley School](./houghtoun_valley_school.md) |
+Berhampore      | [Berhampore School](./berhampore_school.md)            |
 
 
 Other schools:
