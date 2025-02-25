@@ -6,19 +6,25 @@ https://seatoun.school.nz/
 
 Friends of Seatoun School
     - https://seatoun.school.nz/our-school/general-information/foss/
-    - meetings twice per term, in school cal
-    - emails:
-        - fosschair@seatoun.school.nz
-        - foss@seatoun.school.nz
-    - invited to contact your teacher + principle if you have things to offer
+        - meetings twice per term, in school cal
+        - emails:
+            - fosschair@seatoun.school.nz
+            - foss@seatoun.school.nz
+        - invited to contact your teacher + principle if you have things to offer
+    - Facebook group?
 
 Seatoun Schoool Community Volunteers Guidelines
     - https://seatoun.school.nz/our-school/essential-information/community-volunteers-guidelines/
     - EXEMPLARY!
 
-Long Term Plans
-    - https://seatoun.school.nz/news-and-events/team-notices/
-    - 
+Other cool links which help
+    - Long Term Plans
+        - https://seatoun.school.nz/news-and-events/team-notices/
+        - outline of what the focus is for each year group, for each term
+
+    - FAQ
+        - https://seatoun.school.nz/our-school/general-information/frequently-asked-questions/
+        - has more info about how to get engaged
 
 
 ## Initiatives

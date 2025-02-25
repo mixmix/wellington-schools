@@ -26,16 +26,16 @@ kids). Open to contributions and expanding_
 NOTE: consider the notes hearin more like a WIP wiki - i.e. very likely
 incomplete, subjective, and slightly out of date. Updates most welcome.
 
-Suburb          | School
-----------------|------------------------------------------------------
-Miramar         | [Miramar North School](./miramar_north_school.md)
-Miramar         | [Miramar Central School](./miramar_central_school.md)
-Seatoun         | [Seatoun School](./seatoun_school.md)
-Seatoun         | [Worser Bay School](./worser_bay_school.md)
-Lyall Bay       | [Lyall Bay School](./lyall_bay_school.md)
-Hataitai        | [Hataitai School](./hataitai_school.md)
-Hataitai        | [Kilbernie School](./kilbernie_school.md)
-Houghton Valley | [Houghton Valley School](./houghtoun_valley_school.md)
+Suburb          | School                                                 | Years
+----------------|--------------------------------------------------------|--------
+Miramar         | [Miramar North School](./miramar_north_school.md)      | 0-6
+Miramar         | [Miramar Central School](./miramar_central_school.md)  |
+Seatoun         | [Seatoun School](./seatoun_school.md)                  | 0-8
+Seatoun         | [Worser Bay School](./worser_bay_school.md)            |
+Lyall Bay       | [Lyall Bay School](./lyall_bay_school.md)              |
+Hataitai        | [Hataitai School](./hataitai_school.md)                |
+Hataitai        | [Kilbernie School](./kilbernie_school.md)              |
+Houghton Valley | [Houghton Valley School](./houghtoun_valley_school.md) |
 
 
 Other schools:
